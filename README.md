@@ -1,5 +1,4 @@
 # appium
-set up, .zshrc, test case and more
 
 Here are the steps I took to create Appium framework from scratch:
 - Java
