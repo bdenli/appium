@@ -1,6 +1,6 @@
 # appium
 
-Here are the steps I took to create Appium framework from scratch:
+Steps for creating Appium framework from scratch:
 - Java
 - set up JAVA_HOME >> see copy_zshrc.sh file
 - Node.js
